@@ -4,7 +4,6 @@
 ### **📊 E-Commerce Sales Analysis**
 **Description**: Analyzed e-commerce sales data to uncover key business insights using Python and Excel. Explored sales trends, customer behavior, and profitability using data visualization and statistical techniques.
 ## 🗂 Dataset
- **Source**: Sample Superstore dataset (CSV format)
 **Contains**:
   - Order details (Order ID, Date, Ship Mode)
   - Product details (Category, Sub-category, Product Name)
